@@ -24,3 +24,7 @@ Predicted dividend yield: Companies must forecast their dividend yield rate in t
 Average yield rates in government bonds (with similar residual maturity as average lifespan of stock options) can be taken into account as the threat interest rate. Data on government bond yield rates is readily accessible in publications and on the website.
 
 A strenuous analysis must be performed to evaluate each variable used in option ESOP Valuation methods, and companies may appoint an impartial valuer to value ESOPs if necessary. The value of employee stock option plans must be expensed over the period in which the employees' options will vest.
+
+https://muds.co.in/important-elements-of-the-employee-stock-option-plan/ 
+https://muds.co.in/esop-implementation-esop-evaluation/
+![image](https://user-images.githubusercontent.com/102798589/161696199-b0465aff-1f6c-481e-89cb-7754d045320a.png)
