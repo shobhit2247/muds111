@@ -27,4 +27,3 @@ A strenuous analysis must be performed to evaluate each variable used in option 
 
 https://muds.co.in/important-elements-of-the-employee-stock-option-plan/ 
 https://muds.co.in/esop-implementation-esop-evaluation/
-![image](https://user-images.githubusercontent.com/102798589/161696199-b0465aff-1f6c-481e-89cb-7754d045320a.png)
