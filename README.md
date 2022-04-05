@@ -1,0 +1,2 @@
+# muds111
+Companies that offer employee stock option plans are required to include employee stock option plans expenses in their profit and loss statements. Including employee stock option plans as an expense affects the calculation of distributable profits for dividend declaration, the calculation of EPS (earnings per share), the calculation of profits for senior management remuneration, and the payment of MAT (minimum alternate tax). 
